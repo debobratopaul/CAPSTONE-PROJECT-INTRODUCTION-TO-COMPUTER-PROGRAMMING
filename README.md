@@ -1,0 +1,2 @@
+# CAPSTONE-PROJECT-INTRODUCTION-TO-COMPUTER-PROGRAMMING
+In this capstone project, delve into the world of computer programming by addressing 30 challenging questions using Python. Gain hands-on experience in problem-solving, algorithm design, and coding proficiency. Explore a diverse range of topics, honing your skills and demonstrating a comprehensive understanding of Python programming concepts. 
